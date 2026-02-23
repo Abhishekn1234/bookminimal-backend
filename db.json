@@ -2,8 +2,8 @@
   "books": [
     {
       "id": "book_Ej6Cpa",
-      "title": "Node.js Master",
-      "description": "Complete backend versioning syste",
+      "title": "Node.js Mastering",
+      "description": "Complete backend versioning systemnsd",
       "index": {
         "latestVersion": 1,
         "versions": [
@@ -33,6 +33,22 @@
           "title": "hello",
           "order": 2,
           "pages": []
+        },
+        {
+          "id": "chapter_c2c8KA",
+          "title": "adding",
+          "order": 3,
+          "pages": [
+            {
+              "id": "page_mls7js",
+              "title": "page title",
+              "latestVersion": 2,
+              "versions": [
+                1,
+                2
+              ]
+            }
+          ]
         }
       ]
     },
@@ -91,6 +107,18 @@
       "id": "book_dB1iJV",
       "title": "Taolwidncss",
       "description": "tailwincss",
+      "index": {
+        "latestVersion": 1,
+        "versions": [
+          1
+        ]
+      },
+      "chapters": []
+    },
+    {
+      "id": "book_2YLMAa",
+      "title": "Greams",
+      "description": "greams",
       "index": {
         "latestVersion": 1,
         "versions": [
