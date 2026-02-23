@@ -1,0 +1,85 @@
+{
+  "books": [
+    {
+      "id": "book_Ej6Cpa",
+      "title": "Node.js Mastery",
+      "description": "Complete backend versioning system",
+      "index": {
+        "latestVersion": 1,
+        "versions": [
+          1
+        ]
+      },
+      "chapters": [
+        {
+          "id": "chapter_Z396he",
+          "title": "Introduction",
+          "order": 1,
+          "pages": [
+            {
+              "id": "page_gg3Y7J",
+              "title": "Introduction",
+              "latestVersion": 3,
+              "versions": [
+                1,
+                2,
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "book_kFn79X",
+      "title": "Nest js",
+      "description": "Makesjsjd",
+      "index": {
+        "latestVersion": 5,
+        "versions": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "chapters": [
+        {
+          "id": "chapter_yoY6CZ",
+          "title": "Hello",
+          "order": 1,
+          "pages": [
+            {
+              "id": "page_SonWYa",
+              "title": "hello",
+              "latestVersion": 3,
+              "versions": [
+                1,
+                2,
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "id": "chapter_3GBXtK",
+          "title": "New ",
+          "order": 2,
+          "pages": [
+            {
+              "id": "page_idhQZi",
+              "title": "No pages",
+              "latestVersion": 3,
+              "versions": [
+                1,
+                2,
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
